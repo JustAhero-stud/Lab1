@@ -16,5 +16,7 @@ int main() {
 	Point p0(7.0, 0.0, 3.0);
 	Point p(7.0, 10.0, 3.0);
 	cout << test.valueAtEdge(p0, p);
-	return 0;
+	//test github 
+	int a = 1;
+	return a;
 }
